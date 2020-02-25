@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The game Tetris, built using React
 
-## Available Scripts
-
-In the project directory, you can run:
+![start game](public/game_start.png)
+![game over](public/game_over.png)
 
 ### `npm start`
 
